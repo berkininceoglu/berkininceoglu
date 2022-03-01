@@ -1,4 +1,4 @@
-It is my last term at Sabanci University, Istanbul and I've been working as part-time developer for a year. 
+Graduated from Sabanci University, Istanbul and I've been working as Software Engineer ever since.
 
 - 🔭 I’m currently working on : Public Transportation Systems for variety of cities in Turkey
 - 🌱 I’m currently learning : SwiftUI
